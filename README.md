@@ -8,7 +8,7 @@ Inspired by [this project on Dribbble](https://dribbble.com/shots/2003376-Tab-Ba
 
 Also, read how it was done in our [blog](https://yalantis.com/blog/how_we_created_tab_bar_animation_for_ios/?utm_source=github)
 
-![Preview](https://d13yacurqjgara.cloudfront.net/users/495792/screenshots/2003376/tab_bar_animation_fin-02.gif)
+![Preview](https://github.com/grethi/FoldingTabBar.iOS/blob/Example/example_hitTest.gif)
 
 
 ## Requirements
