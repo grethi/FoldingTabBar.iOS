@@ -14,6 +14,46 @@
 	</dict>
 	<dict>
 		<key>imageName</key>
+		<string>img_01</string>
+		<key>userName</key>
+		<string>Ann Drewer</string>
+		<key>messageText</key>
+		<string>Hey, why didn&apos;t you call me? I&apos;ve...</string>
+		<key>dateText</key>
+		<string>5 min ago</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>img_01</string>
+		<key>userName</key>
+		<string>Ann Drewer</string>
+		<key>messageText</key>
+		<string>Hey, why didn&apos;t you call me? I&apos;ve...</string>
+		<key>dateText</key>
+		<string>5 min ago</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>img_01</string>
+		<key>userName</key>
+		<string>Ann Drewer</string>
+		<key>messageText</key>
+		<string>Hey, why didn&apos;t you call me? I&apos;ve...</string>
+		<key>dateText</key>
+		<string>5 min ago</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>img_01</string>
+		<key>userName</key>
+		<string>Ann Drewer</string>
+		<key>messageText</key>
+		<string>Hey, why didn&apos;t you call me? I&apos;ve...</string>
+		<key>dateText</key>
+		<string>5 min ago</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
 		<string>img_02</string>
 		<key>userName</key>
 		<string>Ryan Wrynn</string>
